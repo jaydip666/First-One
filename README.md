@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Gavare</h1>
 <h3 align="center">A Strongly Connect with frontend developer from India</h3>
 
-<p align="left"> </p>[
-
 - 🌱 I’m currently learning **React.Js,Node.Js and MongoDb.**
 
 - 📫 How to reach me **jaydipgavare16@gmail.com**
